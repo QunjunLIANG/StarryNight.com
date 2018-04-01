@@ -6,9 +6,10 @@ title: Home
 
 # 梁群君的博客
 
-## Meaningfulness is like a starry night
+## If you know the Why, you can live any How. 
+——by Friedrich Nietzsche (1844-1900)
 
-**The starry night** 本是指著名画家文森特·梵高（Vincent Van Gogh）的作品《星空》。
+本站的域名，**The starry night**， 本是指著名画家文森特·梵高（Vincent Van Gogh）的作品《星空》。
 
 > 《星空》（The Starry Night）作于1889年，为布面油画，宽921mm，高737mm，现藏于美国纽约市的现代艺术博物馆。
 
