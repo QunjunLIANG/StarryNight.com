@@ -1,6 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "My cool Blog"
+title = "StarryNight"
+enableEmoji = true
 theme = "hugo-xmin"
 googleAnalytics = ""
 disqusShortname = ""
@@ -13,12 +14,12 @@ footnotereturnlinkcontents = "↩"
     note = "/note/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "Home"
+    name = "主页"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "我的个人简历"
+    url = "https://www.visualcv.com/qunjun-liang"
     weight = 2
 [[menu.main]]
     name = "Categories"
@@ -34,4 +35,4 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "A website built through Hugo and blogdown."
-    footer = "&copy; [Yihui Xie](https://yihui.name) 2017 -- 2018 | [My Github](https://github.com/QunjunLIANG) | [My ResearchGate](https://github.com/QunjunLIANG)"
+    footer = "[My Github](https://github.com/QunjunLIANG) | [My ResearchGate](https://github.com/QunjunLIANG)"
