@@ -4,7 +4,7 @@ author: qunjun
 date: '2020-03-17'
 slug: The Effect Size
 categories:
-  - Doctoral exam
+  - statistics
 tags: []
 ---
 
