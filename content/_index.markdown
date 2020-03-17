@@ -10,7 +10,9 @@ title: Home
 ## If you know the Why, you can live any How. 
 ——by Friedrich Nietzsche (1844-1900)
 
-**The starry night**， 是著名画家文森特·梵高（Vincent Van Gogh）的作品《星空》。
+欢迎来到梁群君的blog，这里没有任何硬核干货，只有一个中年人絮絮叨叨的生活感受。
+
+**The starry night**， 是著名画家文森特·梵高（Vincent Van Gogh）的作品《星空》。本站采用这个域名与我个人的人生哲学有关，同时，也是对于一段遥远的浪漫记忆的缅怀。
 
 <img src="/./_index_files/1200px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg" alt="the painting" width="50%" height="50%"/>
 
