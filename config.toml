@@ -19,7 +19,7 @@ footnotereturnlinkcontents = "↩"
     weight = 1
 [[menu.main]]
     name = "我的个人简历"
-    url = "https://www.visualcv.com/qunjun-liang"
+    url = "https://ae01.alicdn.com/kf/H0b0f19dbf1a74fd1b1946bcebd0dd218S.jpg"
     weight = 2
 [[menu.main]]
     name = "Categories"
@@ -29,10 +29,8 @@ footnotereturnlinkcontents = "↩"
     name = "Tags"
     url = "/tags/"
     weight = 4
-[[menu.main]]
-    name = "Subscribe"
-    url = "/index.xml"
+
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "This blog is built through Hugo and blogdown."
     footer = "[My Github](https://github.com/QunjunLIANG) | [My ResearchGate](https://github.com/QunjunLIANG)"
