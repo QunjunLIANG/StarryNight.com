@@ -2,7 +2,8 @@
 title: Home
 ---
 
-[<img src="<img src="/./_index_files/微信图片_20191212212751.jpg" alt="&#39;The Cat Night&#39;" width="80%" height="200xp"/>g" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/QunjunLIANG)
+[<img src="https://simpleicons.org/icons/github.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-xmin)
+
 
 # The starry night
 
