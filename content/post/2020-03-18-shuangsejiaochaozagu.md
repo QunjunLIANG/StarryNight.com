@@ -10,7 +10,7 @@ tags:
 
 # 双色椒炒杂菇
 
-<img src="/post/2020-03-18-shuangsejiaochaozagu_files/shuangsejiaochaozagu.jpg" alt="" width="5%" height="50%"/>
+<img src="/post/2020-03-18-shuangsejiaochaozagu_files/shuangsejiaochaozagu.jpg" alt="" width="50%" height="50%"/>
 
 这个菜是跟着B站上的[Martin大厨](https://www.bilibili.com/video/av53688898)学的，之所以归到 Medium Level 是因为这道菜需要全程大火快炒，火候稍微不注意就容易糊。不过我试了之后发现，真的满厨房都是蘑菇的香味，你不开抽油烟机真的半天都散不掉。
 
