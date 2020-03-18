@@ -2,7 +2,7 @@
 title: Home
 ---
 
-[<img src="https://i.loli.net/2020/03/17/fKdLhc61bY2Z45r.jpg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-xmin)
+[<img src="https://i.loli.net/2020/03/17/fKdLhc61bY2Z45r.jpg" style="width:50%;width:50%;float:right;" alt="Github repo" />](https://github.com/QunjunLIANG)
 
 
 # The starry night
