@@ -14,11 +14,11 @@ footnotereturnlinkcontents = "↩"
     note = "/note/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "Home\\主页"
+    name = "主页\\Home"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "CV\\个人简历"
+    name = "个人简历\\CV"
     url = "https://ae01.alicdn.com/kf/H0b0f19dbf1a74fd1b1946bcebd0dd218S.jpg"
     weight = 2
 [[menu.main]]
