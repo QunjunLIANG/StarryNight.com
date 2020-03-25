@@ -1,6 +1,6 @@
 ---
 title: 太史豆腐
-author: ~
+author: qunjun
 date: '2020-03-20'
 slug: taishidoufu
 categories: []

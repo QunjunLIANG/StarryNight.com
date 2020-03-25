@@ -1,6 +1,6 @@
 ---
 title: 可乐鸡翅
-author: ~
+author: qunjun
 date: '2020-03-24'
 slug: kelejichi
 categories: []
