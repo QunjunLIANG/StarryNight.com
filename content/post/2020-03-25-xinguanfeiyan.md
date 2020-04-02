@@ -4,7 +4,7 @@ author: H. Holden Thorp
 date: '2020-03-25'
 slug: xinguanfeiyan
 categories:
-  - philosophy
+  - Philosophy
 tags: []
 ---
 
