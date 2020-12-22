@@ -28,7 +28,6 @@ HLM是最经典的HLM统计工具，最常用到的是两层的线性模型（�
 3 在HLM中创建MDM文件
 双击WHLM.exe打开HLM的主界面，最上面的工具栏即主要菜单。点击File可创建新的HLM/MDM文件。如果已有一份MDM文件，在下次打开的时候可选择Make new MDM from old MDM files导入打开。如果需要新建立一个新的MDM文件，点击**Make new MDM file**，选择**Stata package** input。下图为新建MDM文件的示例。
 
-<img src="/post/2020-12-22-html-6-tutorial-by-koki_files/1.png" alt="" width="100%" height="100%"/>
 
 接下来进入选择**模型类型**的界面。一般使用两层的线性模型，即选择HLM2；同理若数据有3层结构则选择HLM3。若有多个因变量，则可以选择下面的Multivariate。点击OK跳转。
 
@@ -45,7 +44,7 @@ HLM是最经典的HLM统计工具，最常用到的是两层的线性模型（�
 选择已经在SPSS中编辑好的数据，然后分别在区域4和5中界定第一层的变量和第二层的变量。以Level 1为例，点击Browse选择Level 1的SPSS文件，再点击右边Choose Variables选择变量，在这里选择class变量为ID号，其他的两个变量进入Level 1，同理设置Level 2的变量。
 
 ![](/post/2020-12-22-html-6-tutorial-by-koki_files/5.png)
-<img src="/post/2020-12-22-html-6-tutorial-by-koki_files/5.png" alt="" width="100%" height="100%"/>
+<img src="/post/2020-12-22-html-6-tutorial-by-koki_files/5.png" alt="" width="80%" height="80%"/>
 
 <img src="/post/2020-12-22-html-6-tutorial-by-koki_files/6.png" alt="" width="80%" height="80%"/>
 
