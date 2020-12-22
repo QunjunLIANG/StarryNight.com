@@ -90,4 +90,22 @@ HLM是最经典的HLM统计工具，最常用到的是两层的线性模型（�
 
 ## 1 空模型
 
+在模型设置阶段，只考虑因变量而不考虑其他变量。保存后，点击File-View Output打开结果txt文档查看输出结果。
+
+<img src="/post/2020-12-22-html-6-tutorial-by-koki_files/16.png" alt="" width="50%" height="50%"/>
+
+<img src="/post/2020-12-22-html-6-tutorial-by-koki_files/17.png" alt="" width="50%" height="50%"/>
+
+> 输出结果的最开始部分显示所用软件的名称、作者和发行公司、技术支持的联系EMail地址、公司的网址和本次运行的时间等信息。
+
+<img src="/post/2020-12-22-html-6-tutorial-by-koki_files/18.png" alt="" width="50%" height="50%"/>
+
+接下来是对变量的加权情况描述，本次运算没有对参与计算的变量值进行加权处理。同时，模型中的因变量为*score*。
+
+<img src="/post/2020-12-22-html-6-tutorial-by-koki_files/19.png" alt="" width="50%" height="50%"/>
+
+**模型摘要：**
+
+$$ICC_1 = \frac{ \tau }{( \tau + \sigma^2)} = \frac{2.4}{2.4+28.1} = 0.079$$
+
 
