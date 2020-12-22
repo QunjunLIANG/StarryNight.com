@@ -108,4 +108,27 @@ HLM是最经典的HLM统计工具，最常用到的是两层的线性模型（�
 
 $$ICC_1 = \frac{ \tau }{( \tau + \sigma^2)} = \frac{2.4}{2.4+28.1} = 0.079$$
 
+<img src="/post/2020-12-22-html-6-tutorial-by-koki_files/20.png" alt="" width="50%" height="50%"/>
+
+<img src="/post/2020-12-22-html-6-tutorial-by-koki_files/21.png" alt="" width="50%" height="50%"/>
+
+最后给出的是反映当前模型整体拟合程度的似然统计结果和模型中估计的参数个数，供未来把该模型和其他模型进行比较时用。
+
+## 2 随机ANCOVA/系数回归模型
+
+(1) 随机ANCOVA模型在空模型的基础上，在Level 1加入预测变量。
+
+<img src="/post/2020-12-22-html-6-tutorial-by-koki_files/22.png" alt="" width="50%" height="50%"/>
+
+<img src="/post/2020-12-22-html-6-tutorial-by-koki_files/23.png" alt="" width="50%" height="50%"/>
+
+<img src="/post/2020-12-22-html-6-tutorial-by-koki_files/24.png" alt="" width="50%" height="50%"/>
+
+<img src="/post/2020-12-22-html-6-tutorial-by-koki_files/25.png" alt="" width="50%" height="50%"/>
+
+<img src="/post/2020-12-22-html-6-tutorial-by-koki_files/26.png" alt="" width="50%" height="50%"/>
+
+<img src="/post/2020-12-22-html-6-tutorial-by-koki_files/27.png" alt="" width="50%" height="50%"/>
+
+<img src="/post/2020-12-22-html-6-tutorial-by-koki_files/28.png" alt="" width="50%" height="50%"/>
 
