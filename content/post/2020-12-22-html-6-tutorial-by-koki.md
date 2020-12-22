@@ -29,7 +29,7 @@ HLM是最经典的HLM统计工具，最常用到的是两层的线性模型（�
    - 使用变量class关联各层的变量数据
 3. 在HLM中创建MDM文件
 
-双击**WHLM.exe**打开HLM的主界面，最上面的工具栏即主要菜单。点击File可创建新的HLM/MDM文件。如果已有一份MDM文件，在下次打开的时候可选**择Make new MDM from old MDM files**导入打开。如果需要新建立一个新的MDM文件，点击**Make new MDM file**，选择**Stata package** input。下图为新建MDM文件的示例。
+双击**WHLM.exe**打开HLM的主界面，最上面的工具栏即主要菜单。点击File可创建新的HLM/MDM文件。如果已有一份MDM文件，在下次打开的时候可选**择Make new MDM from old MDM files**导入打开。如果需要新建立一个新的MDM文件，点击**Make new MDM file**，选择**Stata package input**。下图为新建MDM文件的示例。
 
 <img src="/post/2020-12-22-html-6-tutorial-by-koki_files/1.png" alt="" width="50%" height="50%"/>
 
