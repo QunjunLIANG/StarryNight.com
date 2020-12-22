@@ -29,15 +29,15 @@ HLM是最经典的HLM统计工具，最常用到的是两层的线性模型（�
    - 使用变量class关联各层的变量数据
 3. 在HLM中创建MDM文件
 
-双击WHLM.exe打开HLM的主界面，最上面的工具栏即主要菜单。点击File可创建新的HLM/MDM文件。如果已有一份MDM文件，在下次打开的时候可选择Make new MDM from old MDM files导入打开。如果需要新建立一个新的MDM文件，点击**Make new MDM file**，选择**Stata package** input。下图为新建MDM文件的示例。
+双击**WHLM.exe**打开HLM的主界面，最上面的工具栏即主要菜单。点击File可创建新的HLM/MDM文件。如果已有一份MDM文件，在下次打开的时候可选**择Make new MDM from old MDM files**导入打开。如果需要新建立一个新的MDM文件，点击**Make new MDM file**，选择**Stata package** input。下图为新建MDM文件的示例。
 
 <img src="/post/2020-12-22-html-6-tutorial-by-koki_files/1.png" alt="" width="50%" height="50%"/>
 
-接下来进入选择**模型类型**的界面。一般使用两层的线性模型，即选择HLM2；同理若数据有3层结构则选择HLM3。若有多个因变量，则可以选择下面的Multivariate。点击OK跳转。
+接下来进入选择**模型类型**的界面。一般使用两层的线性模型，即选择HLM2；同理若数据有3层结构则选择HLM3。若有多个因变量，则可以选择下面的**Multivariate**。点击**OK**跳转。
 
 <img src="/post/2020-12-22-html-6-tutorial-by-koki_files/2.png" alt="" width="50%" height="50%"/>
 
-建立文件的界面主要如下图，其中区域1和区域2是MDM文件的名称与保存处。区域3是数据类型的选择，如果数据嵌套在组中，选择第一个persons within groups，如果是追踪测量多个时间点的数据，则选择第二个measures within persons。区域4用于对Level 1的界定，区域5用于对Level 2的界定。
+建立文件的界面主要如下图，其中区域1和区域2是MDM文件的名称与保存处。区域3是数据类型的选择，如果数据嵌套在组中，选择第一**个persons within groups**，如果是追踪测量多个时间点的数据，则选择第二个**measures within persons**。区域4用于对Level 1的界定，区域5用于对Level 2的界定。
 
 <img src="/post/2020-12-22-html-6-tutorial-by-koki_files/3.png" alt="" width="50%" height="50%"/>
 
@@ -45,17 +45,17 @@ HLM是最经典的HLM统计工具，最常用到的是两层的线性模型（�
 
 <img src="/post/2020-12-22-html-6-tutorial-by-koki_files/4.png" alt="" width="50%" height="50%"/>
 
-选择已经在SPSS中编辑好的数据，然后分别在区域4和5中界定第一层的变量和第二层的变量。以Level 1为例，点击Browse选择Level 1的SPSS文件，再点击右边Choose Variables选择变量，在这里选择class变量为ID号，其他的两个变量进入Level 1，同理设置Level 2的变量。
+选择已经在SPSS中编辑好的数据，然后分别在区域4和5中界定第一层的变量和第二层的变量。以Level 1为例，点击**Browse**选择Level 1的SPSS文件，再点击右边Choose Variables选择变量，在这里选择class变量为ID号，其他的两个变量进入Level 1，同理设置Level 2的变量。
 
 <img src="/post/2020-12-22-html-6-tutorial-by-koki_files/5.png" alt="" width="50%" height="50%"/>
 
 <img src="/post/2020-12-22-html-6-tutorial-by-koki_files/6.png" alt="" width="50%" height="50%"/>
 
-注意如果Level 1数据有缺失值，可勾选区域4的Yes，否则默认勾选No。最后在区域2输入文件名，并点击区域1的Save mdmt file保存文件。
+注意如果Level 1数据有缺失值，可勾选区域4的Yes，否则默认勾选No。最后在区域2输入文件名，并点击区域1的**Save mdmt file**保存文件。
 
 <img src="/post/2020-12-22-html-6-tutorial-by-koki_files/7.png" alt="" width="50%" height="50%"/>
 
-最后点击Make MDM可以检查MDM，显示描述性的结果，点击Check Stats可以将该结果保存在txt文档中。最后点击DONE，进入模型编辑界面。
+最后点击**Make MDM**可以检查MDM，显示描述性的结果，点击**Check Stats**可以将该结果保存在txt文档中。最后点击**DONE**，进入模型编辑界面。
 
 <img src="/post/2020-12-22-html-6-tutorial-by-koki_files/8.png" alt="" width="50%" height="50%"/>
 
@@ -93,7 +93,7 @@ HLM是最经典的HLM统计工具，最常用到的是两层的线性模型（�
 
 ## 1 空模型
 
-在模型设置阶段，只考虑因变量而不考虑其他变量。保存后，点击File-View Output打开结果txt文档查看输出结果。
+在模型设置阶段，只考虑因变量而不考虑其他变量。保存后，点击**File-View Output**打开结果txt文档查看输出结果。
 
 <img src="/post/2020-12-22-html-6-tutorial-by-koki_files/16.png" alt="" width="50%" height="50%"/>
 
