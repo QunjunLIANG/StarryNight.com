@@ -137,3 +137,21 @@ $$ICC_1 = \frac{ \tau }{( \tau + \sigma^2)} = \frac{2.4}{2.4+28.1} = 0.079$$
 <img src="/post/2020-12-22-html-6-tutorial-by-koki_files/29.png" alt="" width="50%" height="50%"/>
 
 <img src="/post/2020-12-22-html-6-tutorial-by-koki_files/30.png" alt="" width="50%" height="50%"/>
+
+## 4 全模型
+
+全模型即斜率及截距模型，相当于随机系数模型和截距模型的整合。在Level 1和2中均加入预测变量。
+
+<img src="/post/2020-12-22-html-6-tutorial-by-koki_files/31.png" alt="" width="50%" height="50%"/>
+
+本部分为模型表达式。
+
+<img src="/post/2020-12-22-html-6-tutorial-by-koki_files/32.png" alt="" width="50%" height="50%"/>
+
+下图为对水平1的截距和斜率信度估计的值。
+
+<img src="/post/2020-12-22-html-6-tutorial-by-koki_files/33.png" alt="" width="50%" height="50%"/>
+
+**最重要的，是固定部分最后的估计。输出结果有两个，一个是带有稳健的标准误估计（with roubast error），一个没有。本文主要关注前者。**
+
+<img src="/post/2020-12-22-html-6-tutorial-by-koki_files/34.png" alt="" width="50%" height="50%"/>
